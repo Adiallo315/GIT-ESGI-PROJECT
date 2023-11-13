@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    // Déclaration et initialisation d'un tableau d'entiers
+    int tableauEntiers[5] = {10, 20, 30, 40, 50};
+
+    // Calcul de la somme des éléments du tableau
+    int somme = 0;
+
+    // TODO: Utilisez une boucle pour parcourir le tableau et calculer la somme des éléments
+
+    // Affichage du résultat
+    printf("La somme des éléments du tableau est : %d\n", somme);
+
+    return 0;
+}
