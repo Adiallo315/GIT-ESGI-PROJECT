@@ -12,7 +12,7 @@ Ce projet a été développé dans le cadre d'un cours sur Git et GitHub. Il cou
 - **feature/condition**: Ajout de fonctionnalités liées aux conditions.
 - **feature/gestionAdressesIP**: Projet de gestion des adresses IP.
 - **feature/linterprojet**: Ajout d'un linter pour le projet.
-- ... (autres branches)
+
 
 ## Commits Récents
 
@@ -22,7 +22,7 @@ Ce projet a été développé dans le cadre d'un cours sur Git et GitHub. Il cou
 - **ajout de git actions**
 - **Ajout du linter en C**
 - **Ajout du redme**
-- ... (autres commits)
+
 
 ## Utilisation
 
