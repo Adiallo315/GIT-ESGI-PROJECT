@@ -4,11 +4,10 @@ Merci de considérer la contribution à notre projet ! Nous accueillons toutes l
 
 ## Comment contribuer
 
-1. Forkz le projet
-2. Créez votre branche de fonctionnalité (`git checkout -b feature/NouvelleFonctionnalite`)
-3. Commitz vos modifications (`git commit -am 'Ajouter une nouvelle fonctionnalité'`)
-4. Poussez vers la branche (`git push origin feature/NouvelleFonctionnalite`)
-5. Créez une nouvelle demande d'extraction
+1. Créez votre branche de fonctionnalité (`git checkout -b feature/NouvelleFonctionnalite`)
+2. Commitz vos modifications (`git commit -am 'Ajouter une nouvelle fonctionnalité'`)
+3. Poussez vers la branche (`git push origin feature/NouvelleFonctionnalite`)
+4. Créez une nouvelle demande d'extraction
 
 ## Comment rapporter un problème
 
